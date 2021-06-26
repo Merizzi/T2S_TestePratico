@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2S_TestePratico_webapi_DBFirst", "T2S_TestePratico_webapi_DBFirst\T2S_TestePratico_webapi_DBFirst.csproj", "{9CD8E8D0-6DD0-4F36-A821-AC4F2AFE6E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD8E8D0-6DD0-4F36-A821-AC4F2AFE6E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD8E8D0-6DD0-4F36-A821-AC4F2AFE6E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD8E8D0-6DD0-4F36-A821-AC4F2AFE6E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD8E8D0-6DD0-4F36-A821-AC4F2AFE6E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6AF6DA0-63C9-40A4-85AB-76016E30788E}
+	EndGlobalSection
+EndGlobal

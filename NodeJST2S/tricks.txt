@@ -1,0 +1,5 @@
+npx create-react-app t2s
+
+cd t2s
+
+npm install material-table @material-ui/core @material-ui/icons --save
